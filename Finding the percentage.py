@@ -11,4 +11,4 @@ if __name__ == '__main__':
     mark = student_marks[query_name]
     average = sum(mark) / len(mark)
     print(f"{average:.2f}")
-     
+      
