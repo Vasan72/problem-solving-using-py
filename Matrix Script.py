@@ -20,3 +20,4 @@ for col in range(m):
 decoded_string = re.sub(r'(?<=\w)[^a-zA-Z0-9]+(?=\w)',' ', decoded_string)
 
 print(decoded_string)   
+ 
