@@ -21,5 +21,5 @@ if __name__ == '__main__':
             my_list.pop()
         elif cmd == 'reverse':
             my_list.reverse()
-    
+     
      
